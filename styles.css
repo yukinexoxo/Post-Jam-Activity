@@ -13,11 +13,11 @@
   --text-muted: #9aa0a6;
   --shadow: rgba(0, 0, 0, 0.5);
   --border-color: #5f6368;
-}
+/* }
 * {
     outline: 1px solid red !important;
     
-} 
+}  */
 
 /* Reset and Base Styles */
 * {
